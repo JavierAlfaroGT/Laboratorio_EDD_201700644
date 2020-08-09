@@ -1,0 +1,24 @@
+--------------Errores-----------------------
+1) Estas importando el Archivo con extension .c  y eso no es una buena practica de programacion.
+
+
+--------------Recomendaciones---------------
+1) Me imagino que te tiraba error y lo solucionaste importando el C pero tienes que configurar el espacio de trabajo para que compile
+todos los C y asi poder importar el h
+
+2) Vi tu mensaje del cabeza queda en el limbo pero no es asi, lo que pasa es que nos interesa guardar el valor
+y el puntero solo es una referencia, cuando termina la aplicacion se eliminan los punteros pero no los valores que
+fueron creados.
+
+***** Muy bien que documentes tu codigo*******************
+
+
+
+------------------Nota----------------------
+
+Grafica 20/20
+Eliminar 40/40
+Get 40/40
+
+
+
