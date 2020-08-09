@@ -1,0 +1,8 @@
+digraph G{ 
+ node[shape="ellipse",color = cyan,fontcolor=slateblue2,style=filled];
+edge[arrowhead=vee,color=blue];
+node001E2E38[label="3"]
+node001E2E50[label="25"]
+node001E2E38->node001E2E50;
+ node001E2E50->node001E2E38;
+}
